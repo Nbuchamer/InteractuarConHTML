@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color: rgb(166, 233, 65);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    color: lawngreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cerveza{
+    color: lightyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.vinoTinto{
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.aperitivos{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.vinoBlanco{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.whisky{
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
