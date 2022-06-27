@@ -19,6 +19,21 @@ console.log(productos[2].innerHTML);
 console.log(productos[3].innerHTML);
 console.log(productos[4].innerHTML);
 
+document.getElementById("cerveza1").value = "Lata Stella Artois x 24u.";
+document.getElementById("cerveza1valor").value = 2900;
+document.getElementById("cerveza2").value = "Lata Heineken x 24 u.";
+document.getElementById("cerveza2valor").value = 3700;
+document.getElementById("vinoTinto1").value = "Trumpeter-Malbec";
+document.getElementById("vinoTinto1valor").value = 5500;
+document.getElementById("vinoTinto2").value = "Nicasia-Malbec";
+document.getElementById("vinoTinto2valor").value = 6200;
+document.getElementById("vinoBlanco1").value = "Santa Julia Chennin Dulce";
+document.getElementById("vinoBlanco1valor").value = 4000;
+document.getElementById("aperitivo1").value = "Fernet Branca 750";
+document.getElementById("aperitivo1valor").value = 1000;
+document.getElementById("whisky1").value = "Johnnie Walker Red Label";
+document.getElementById("whisky1valor").value = 3800;
+
 /*["cerveza", "vinotinto", "aperitivos", "vinoblanco", "whisky"];
 
 console.log ("Diferentes tipos de bebidas que podes encontrar:")
